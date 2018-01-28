@@ -7,3 +7,6 @@ I've created the grid layout of the page, so the structure of the site is alread
 
 ## Day 2 - 24 january 2018
 Today I finished the Features section of the page and I made a start with the Story section. The content part of this section is already done, the image part needs to be build yet. All changes are committed to the repository.
+
+## Day 3 - 27 january 2018
+The story section is finished by now. I also made a start of the Homes section, a section with different cards of houses which will be a combination of CSS Grid and Flexbox. All changes are committed to the repository.
