@@ -13,3 +13,6 @@ The story section is finished by now. I also made a start of the Homes section, 
 
 ## Day 4 - 28 january 2018
 I completed the Home section, with CSS Grid and a tiny bit of Flexbox also. And again all changes are committed to the repository.
+
+## Day 5 - 29 january 2018
+I added a large image gallery (14 images) with the use of CSS Grid and the object-fit property. I've committed all the changes to this repository.
