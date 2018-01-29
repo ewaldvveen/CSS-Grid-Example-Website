@@ -10,3 +10,6 @@ Today I finished the Features section of the page and I made a start with the St
 
 ## Day 3 - 27 january 2018
 The story section is finished by now. I also made a start of the Homes section, a section with different cards of houses which will be a combination of CSS Grid and Flexbox. All changes are committed to the repository.
+
+## Day 4 - 28 january 2018
+I completed the Home section, with CSS Grid and a tiny bit of Flexbox also. And again all changes are committed to the repository.
