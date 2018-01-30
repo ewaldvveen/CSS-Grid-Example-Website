@@ -18,4 +18,4 @@ I completed the Home section, with CSS Grid and a tiny bit of Flexbox also. And 
 I added a large image gallery (14 images) with the use of CSS Grid and the object-fit property. I've committed all the changes to this repository.
 
 ## Day 6 - 30 january 2018
-The page contains a sidebare menu and a footer now. Both are committed to the repository;
+The page contains a sidebare menu and a footer now. Besides these sections I styled both the header parts. All updates files are committed to the repository.
