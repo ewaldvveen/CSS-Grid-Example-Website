@@ -19,3 +19,6 @@ I added a large image gallery (14 images) with the use of CSS Grid and the objec
 
 ## Day 6 - 30 january 2018
 The page contains a sidebare menu and a footer now. Besides these sections I also styled both the header parts. All updates files are committed to the repository.
+
+## Day 7 - 1 february 2018
+After adding some media queries to the project for a better responsive design I finished the course by adding the final CSS version. I really enjoyed this project and became a CSS Grid fan for sure!
